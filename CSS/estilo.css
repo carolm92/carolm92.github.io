@@ -1,0 +1,153 @@
+﻿body{
+	background-image: url(../imagens/bg.jpg); 
+}
+header{
+	color: #436EEE;
+	font-size: 25px;
+	text-align:center;
+	height:30px;
+	padding-top: 0.1em;
+	padding-bottom:0.5em;
+}
+.inicial{ 
+	width:650px;
+	height:1260px;
+	background-color:black;
+	color:white;
+	text-align:justify;
+	border-style:dotted;
+	border-color:#436EEE;
+	margin:0 auto;
+	border-radius:30px;
+	padding-left:30px;
+	padding-right:30px;
+}
+.curiosidades{ 
+	width:650px;
+	height:1370px;
+	background-color:black;
+	color:white;
+	text-align:justify;
+	border-style:dotted;
+	border-color:#436EEE;
+	margin:0 auto;
+	border-radius:30px;
+	padding-left:30px;
+	padding-right:30px;
+}
+.imagem{
+	border:dotted;
+	border-color:white;
+	border-radius:30px;
+}
+.xml{ 
+	width:650px;
+	height:900px;
+	background-color:black;
+	color:white;
+	text-align:justify;
+	border-style:dotted;
+	border-color:#436EEE;
+	margin:0 auto;
+	border-radius:30px;
+	padding-left:30px;
+	padding-right:30px;
+}
+.sql{ 
+	width:650px;
+	height:1105px;
+	background-color:black;
+	color:white;
+	text-align:justify;
+	border-style:dotted;
+	border-color:#436EEE;
+	margin:0 auto;
+	border-radius:30px;
+	padding-left:30px;
+	padding-right:30px;
+}
+.php{ 
+	width:650px;
+	height:965px;
+	background-color:black;
+	color:white;
+	text-align:justify;
+	border-style:dotted;
+	border-color:#436EEE;
+	margin:0 auto;
+	border-radius:30px;
+	padding-left:30px;
+	padding-right:30px
+}
+.css{
+	width:650px;
+	height:835px;
+	background-color:black;
+	color:white;
+	text-align:justify;
+	border-style:dotted;
+	border-color:#436EEE;
+	margin:0 auto;
+	border-radius:30px;
+	padding-left:30px;
+	padding-right:30px
+}
+.html{
+	width:650px;
+	height:920px;
+	background-color:black;
+	color:white;
+	text-align:justify;
+	border-style:dotted;
+	border-color:#436EEE;
+	margin:0 auto;
+	border-radius:30px;
+	padding-left:30px;
+	padding-right:30px
+}
+.java{
+	width:650px;
+	height:1100px;
+	background-color:black;
+	color:white;
+	text-align:justify;
+	border-style:dotted;
+	border-color:#436EEE;
+	margin:0 auto;
+	border-radius:30px;
+	padding-left:30px;
+	padding-right:30px
+}
+.net{
+	width:650px;
+	height:680px;
+	background-color:black;
+	color:white;
+	text-align:justify;
+	border-style:dotted;
+	border-color:#436EEE;
+	margin:0 auto;
+	border-radius:30px;
+	padding-left:30px;
+	padding-right:30px
+}
+.contato{
+	width:530px;
+	height:755px;
+	background-color:black;
+	color:white;
+	text-align:justify;
+	border-style:dotted;
+	border-color:#436EEE;
+	margin:0 auto;
+	border-radius:30px;
+	padding-left:30px;
+	padding-right:30px;
+}
+footer{
+	background: black;
+	color:white;
+	text-align:right;
+	padding-right:10px;
+	border-radius:30px;
+}
